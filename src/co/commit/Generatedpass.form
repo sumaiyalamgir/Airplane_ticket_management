@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="co.combind.Generatedpass">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="GridLayoutManager" row-count="5" column-count="3" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="687" height="400"/>
+    </constraints>
+    <properties>
+      <background color="-6887692"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <grid id="7e376" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="10" left="10" bottom="10" right="10"/>
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="3" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-6887692"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="ae1ad" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <background color="-6887692"/>
+              <font name="Berlin Sans FB Demi" size="26" style="1"/>
+              <text value="Passenger Pass"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+      <grid id="ced0a" layout-manager="GridLayoutManager" row-count="1" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="10" left="10" bottom="10" right="10"/>
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-6887692"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="15d49" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <background color="-6887692"/>
+              <font name="Calisto MT" size="20" style="1"/>
+              <text value="Name      :"/>
+            </properties>
+          </component>
+          <component id="b8feb" class="javax.swing.JTextArea" binding="name">
+            <constraints>
+              <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                <preferred-size width="150" height="20"/>
+              </grid>
+            </constraints>
+            <properties>
+              <background color="-6887692"/>
+              <editable value="false"/>
+              <enabled value="true"/>
+              <font name="Calisto MT" size="20" style="1"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+      <grid id="c85ea" layout-manager="GridLayoutManager" row-count="1" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="10" left="10" bottom="10" right="10"/>
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-6887692"/>
+          <font name="Calisto MT" size="20" style="1"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="80e20" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <background color="-6887692"/>
+              <font name="Calisto MT" size="20" style="1"/>
+              <text value="From    : "/>
+            </properties>
+          </component>
+          <component id="8b174" class="javax.swing.JTextArea" binding="frominfo">
+            <constraints>
+              <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                <preferred-size width="150" height="20"/>
+              </grid>
+            </constraints>
+            <properties>
+              <background color="-6887692"/>
+              <editable value="false"/>
+              <enabled value="true"/>
+              <font name="Calisto MT" size="20" style="1"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+      <grid id="de0d7" layout-manager="GridLayoutManager" row-count="1" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="10" left="10" bottom="10" right="10"/>
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="2" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-6887692"/>
+          <font name="Calisto MT" size="20" style="1"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="81e3c" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <background color="-6887692"/>
+              <font name="Calisto MT" size="20" style="1"/>
+              <text value="To      :"/>
+            </properties>
+          </component>
+          <component id="8151" class="javax.swing.JTextArea" binding="Toinfo">
+            <constraints>
+              <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                <preferred-size width="150" height="20"/>
+              </grid>
+            </constraints>
+            <properties>
+              <background color="-6887692"/>
+              <editable value="false"/>
+              <enabled value="true"/>
+              <font name="Calisto MT" size="20" style="1"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+      <grid id="1d2d5" layout-manager="GridLayoutManager" row-count="1" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="10" left="10" bottom="10" right="10"/>
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="2" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-6887692"/>
+          <font name="Calisto MT" size="20" style="1"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="ee8a5" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <background color="-6887692"/>
+              <font name="Calisto MT" size="20" style="1"/>
+              <text value="Flight Id    :"/>
+            </properties>
+          </component>
+          <component id="aa1b7" class="javax.swing.JTextArea" binding="flightid">
+            <constraints>
+              <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                <preferred-size width="150" height="20"/>
+              </grid>
+            </constraints>
+            <properties>
+              <background color="-6887692"/>
+              <editable value="false"/>
+              <font name="Calisto MT" size="20" style="1"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+      <grid id="65fed" layout-manager="GridLayoutManager" row-count="1" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="10" left="10" bottom="10" right="10"/>
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-6887692"/>
+          <font name="Calisto MT" size="20" style="1"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="22fe2" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <background color="-6887692"/>
+              <font name="Calisto MT" size="20" style="1"/>
+              <text value="Board Time  :  "/>
+            </properties>
+          </component>
+          <component id="721cd" class="javax.swing.JTextArea" binding="boardtime">
+            <constraints>
+              <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                <preferred-size width="150" height="20"/>
+              </grid>
+            </constraints>
+            <properties>
+              <background color="-6887692"/>
+              <editable value="false"/>
+              <enabled value="true"/>
+              <font name="Calisto MT" size="20" style="1"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+      <grid id="db83f" layout-manager="GridLayoutManager" row-count="1" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="10" left="10" bottom="10" right="10"/>
+        <constraints>
+          <grid row="3" column="1" row-span="1" col-span="2" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-6887692"/>
+          <font name="Calisto MT" size="20" style="1"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="40efd" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <background color="-6887692"/>
+              <font name="Calisto MT" size="20" style="1"/>
+              <text value="Seat no.           :"/>
+            </properties>
+          </component>
+          <component id="7ae41" class="javax.swing.JTextArea" binding="seatinfo">
+            <constraints>
+              <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                <preferred-size width="150" height="20"/>
+              </grid>
+            </constraints>
+            <properties>
+              <background color="-6887692"/>
+              <editable value="false"/>
+              <enabled value="true"/>
+              <font name="Calisto MT" size="20" style="1"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+      <grid id="dbe" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="10" left="10" bottom="10" right="10"/>
+        <constraints>
+          <grid row="4" column="0" row-span="1" col-span="3" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-6887692"/>
+          <font name="Calisto MT" size="20" style="1"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="f09d" class="javax.swing.JButton" binding="homeButton" default-binding="true">
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Calisto MT" size="20" style="1"/>
+              <text value="Home"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+    </children>
+  </grid>
+</form>
