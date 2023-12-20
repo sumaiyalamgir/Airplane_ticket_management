@@ -2,44 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec415a9c-d8f4-42f1-b16d-f8e132f946a5" name="Changes" comment="initial">
-      <change afterPath="$PROJECT_DIR$/jcalendar-1.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql-connector-j-8.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/AdminBooking.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/AdminBooking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/Admincancel.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/Admincancel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/Adminsignin.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/Adminsignin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/Adminwork.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/Adminwork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/CancelBooking.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/CancelBooking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/Dashboard.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/Dashboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/Flightlog.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/Flightlog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/Generatedpass.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/Generatedpass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/Homepage.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/Homepage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/SeatBookingpanel.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/SeatBookingpanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/Signin.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/Signin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/Signup.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/Signup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/Updateflight.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/Updateflight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/boy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/businessman_1060681.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/calendar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/depositphotos_4755326-stock-photo-white-passenger-plane-landing-away.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/images.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/intro-1692986035.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/location.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/man.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/png-transparent-airplane-aircraft-flight-logo-airplane-blue-logo-flight-thumbnail.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/commit/user-286.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Airplane_ticket_management.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Airplane_ticket_management.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/commit/AdminBooking.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/commit/AdminBooking.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/commit/Admincancel.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/commit/Admincancel.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/commit/Adminsignin.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/commit/Adminsignin.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/commit/Adminwork.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/commit/Adminwork.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/commit/CancelBooking.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/commit/CancelBooking.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/commit/Dashboard.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/commit/Dashboard.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/commit/Flightlog.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/commit/Flightlog.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/commit/Generatedpass.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/commit/Generatedpass.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/commit/Homepage.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/commit/Homepage.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/commit/SeatBookingpanel.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/commit/SeatBookingpanel.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/commit/Signin.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/commit/Signin.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/commit/Signup.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/commit/Signup.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/commit/Updateflight.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/commit/Updateflight.form" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +45,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/semester 3/capstone/Airplane_ticket_management",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW": "true",
+    "last_opened_file_path": "E:/semester 3/capstone/Airplane_ticket_management/jcalendar-1.4.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
@@ -97,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703057979820</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial">
+      <created>1703058259421</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703058259421</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
