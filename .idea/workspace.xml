@@ -2,21 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec415a9c-d8f4-42f1-b16d-f8e132f946a5" name="Changes" comment="initial">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Airplane_ticket_management.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Airplane_ticket_management.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/commit/AdminBooking.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/commit/AdminBooking.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/commit/Admincancel.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/commit/Admincancel.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/commit/Adminsignin.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/commit/Adminsignin.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/co/commit/Adminwork.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/commit/Adminwork.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/commit/CancelBooking.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/commit/CancelBooking.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/co/commit/Dashboard.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/commit/Dashboard.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/commit/Flightlog.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/commit/Flightlog.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/commit/Generatedpass.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/commit/Generatedpass.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/co/commit/Homepage.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/commit/Homepage.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/commit/SeatBookingpanel.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/commit/SeatBookingpanel.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/commit/Signin.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/commit/Signin.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/commit/Signup.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/commit/Signup.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/commit/Updateflight.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/commit/Updateflight.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/commit/Signin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/commit/Signin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,14 +34,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW": "true",
     "last_opened_file_path": "E:/semester 3/capstone/Airplane_ticket_management/jcalendar-1.4.jar",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -85,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703058259421</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="initial">
+      <created>1703058954926</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703058954926</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

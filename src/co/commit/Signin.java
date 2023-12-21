@@ -56,4 +56,8 @@ public class Signin extends JFrame{
     private JTextField Emailfield;
     private JPasswordField passwordField1;
     private JButton loginButton;
+
+    public static void main(String[] args) {
+        Signin f = new Signin();
+    }
 }

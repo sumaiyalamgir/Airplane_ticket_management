@@ -16,7 +16,7 @@
           <background color="-10109208"/>
           <font name="Berlin Sans FB Demi" size="48" style="1"/>
           <foreground color="-13137153"/>
-          <icon value="co/combind/user-286.png"/>
+          <icon value="co/commit/user-286.png"/>
           <text value="USER LOGIN"/>
         </properties>
       </component>
