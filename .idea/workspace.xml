@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec415a9c-d8f4-42f1-b16d-f8e132f946a5" name="Changes" comment="initial">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/commit/Adminwork.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/commit/Adminwork.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/commit/Dashboard.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/commit/Dashboard.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/commit/Homepage.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/commit/Homepage.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/commit/Signin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/commit/Signin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/commit/SeatBookingpanel.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/commit/SeatBookingpanel.form" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703058954926</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="initial">
+      <created>1703153684457</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703153684457</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

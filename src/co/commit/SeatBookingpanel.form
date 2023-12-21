@@ -25,7 +25,7 @@
               <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
             </constraints>
             <properties>
-              <icon value="co/combind/location.png"/>
+              <icon value="co/commit/location.png"/>
               <text value="From"/>
             </properties>
           </component>
@@ -59,7 +59,7 @@
               <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
             </constraints>
             <properties>
-              <icon value="co/combind/location.png"/>
+              <icon value="co/commit/location.png"/>
               <text value="To"/>
             </properties>
           </component>
@@ -104,7 +104,7 @@
               <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
             </constraints>
             <properties>
-              <icon value="co/combind/calendar.png"/>
+              <icon value="co/commit/calendar.png"/>
               <text value="Depart"/>
             </properties>
           </component>
@@ -122,7 +122,6 @@
                 <constraints>
                   <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
                 </constraints>
-                <properties/>
               </component>
             </children>
           </grid>
@@ -143,7 +142,7 @@
               <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
             </constraints>
             <properties>
-              <icon value="co/combind/calendar.png"/>
+              <icon value="co/commit/calendar.png"/>
               <text value="Return"/>
             </properties>
           </component>
@@ -161,7 +160,6 @@
                 <constraints>
                   <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
                 </constraints>
-                <properties/>
               </component>
             </children>
           </grid>
@@ -200,7 +198,7 @@
                   <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
                 </constraints>
                 <properties>
-                  <icon value="co/combind/boy.png"/>
+                  <icon value="co/commit/boy.png"/>
                   <text value=""/>
                 </properties>
               </component>
@@ -218,7 +216,7 @@
                   <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
                 </constraints>
                 <properties>
-                  <icon value="co/combind/man.png"/>
+                  <icon value="co/commit/man.png"/>
                   <text value=""/>
                 </properties>
               </component>
